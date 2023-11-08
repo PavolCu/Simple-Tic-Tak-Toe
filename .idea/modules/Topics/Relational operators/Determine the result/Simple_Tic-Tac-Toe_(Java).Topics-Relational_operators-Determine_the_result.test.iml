@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Determine the result/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Determine the result/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).Topics-Relational_operators-Determine_the_result.main" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).util.main" />

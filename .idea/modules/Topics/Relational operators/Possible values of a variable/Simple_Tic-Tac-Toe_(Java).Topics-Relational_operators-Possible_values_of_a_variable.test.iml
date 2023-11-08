@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Possible values of a variable/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Possible values of a variable/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).Topics-Relational_operators-Possible_values_of_a_variable.main" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).util.main" />

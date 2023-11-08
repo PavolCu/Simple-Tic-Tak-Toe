@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multidimensional array/Find the corners/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multidimensional array/Find the corners/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Find_the_corners.main" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).util.main" />

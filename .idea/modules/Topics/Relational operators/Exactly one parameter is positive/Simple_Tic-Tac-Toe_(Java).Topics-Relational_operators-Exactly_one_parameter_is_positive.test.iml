@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Exactly one parameter is positive/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Exactly one parameter is positive/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).Topics-Relational_operators-Exactly_one_parameter_is_positive.main" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).util.main" />

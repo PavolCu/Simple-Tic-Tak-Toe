@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Check the value/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Check the value/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).Topics-Relational_operators-Check_the_value.main" />
     <orderEntry type="module" module-name="Simple_Tic-Tac-Toe_(Java).util.main" />

@@ -6,7 +6,7 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Groundhogs at a party/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Relational operators/Groundhogs at a party/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
